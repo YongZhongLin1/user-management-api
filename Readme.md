@@ -10,7 +10,7 @@
 ```
 docker compose up -d
 ```
-This command will spin up the necessary Docker containers for the project in detached mode.
+This command will spin up the necessary Docker containers for the project in detached mode. Postgre DB is running in Docker. Once command above is run, it will create some sample data in database as well.
 
 3. **Install Dependencies:**
 ```
