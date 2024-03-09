@@ -86,6 +86,8 @@ project-root
     - Headers:
         - `authorization` (required): jwt token from Login API
 
+![Image Alt Text](/assets/screenshots/admin_fetch_user.PNG)
+
 - **Create User Data**
 
     - URL: `/admin/v1/user`
